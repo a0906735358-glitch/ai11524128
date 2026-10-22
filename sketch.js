@@ -101,3 +101,5 @@ function gotResult(error, results) {
   label = results[0].label;
   // Classifiy again!
   classifyVideo();
+
+}
